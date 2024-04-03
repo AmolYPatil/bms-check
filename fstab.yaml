@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p132653-e1287758.adobeaemcloud.com/bin/franklin.delivery/AmolYPatil/bms-check/main"
+    url: "https://author-p132653-e1287758.adobeaemcloud.com/bin/franklin.delivery/AmolYPatil/edge-poc/main"
     type: "markup"
     suffix: ".html"
